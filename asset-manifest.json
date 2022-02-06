@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/spot-your-meal-web-app/static/css/main.e4da352b.css",
+    "main.js": "/spot-your-meal-web-app/static/js/main.71790845.js",
+    "static/js/787.4b5d7ef0.chunk.js": "/spot-your-meal-web-app/static/js/787.4b5d7ef0.chunk.js",
+    "static/media/meals.jpg": "/spot-your-meal-web-app/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/spot-your-meal-web-app/index.html",
+    "main.e4da352b.css.map": "/spot-your-meal-web-app/static/css/main.e4da352b.css.map",
+    "main.71790845.js.map": "/spot-your-meal-web-app/static/js/main.71790845.js.map",
+    "787.4b5d7ef0.chunk.js.map": "/spot-your-meal-web-app/static/js/787.4b5d7ef0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4da352b.css",
+    "static/js/main.71790845.js"
+  ]
+}
