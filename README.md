@@ -1,7 +1,6 @@
 # Live Site is here :
 
-https://anantmehra-iiitk.github.io/Spot-Your-Meal-Web-App/
-
+https://anantmehra-iiitk.github.io/spot-your-meal-web-app/
 ## Available Scripts
 
 In the project directory, you can run:
