@@ -1,4 +1,4 @@
-# Live Site is here :
+#  Site is here (currently under developmemnt) :
 
 https://anantmehra-iiitk.github.io/spot-your-meal-web-app/
 ## Available Scripts
